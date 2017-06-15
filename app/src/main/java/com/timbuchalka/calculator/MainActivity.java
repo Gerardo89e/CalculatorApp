@@ -171,4 +171,5 @@ public class MainActivity extends AppCompatActivity {
     public String returnName(){
         return "Time was here";
     }
+    //This is just an example
 }
